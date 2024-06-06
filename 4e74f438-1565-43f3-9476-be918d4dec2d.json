@@ -1,4 +1,16 @@
 {
-  "type": "slim",
-  "url": ""
+  "timestamp" : 1717701750305,
+  "profileId" : "4e74f438156543f39476be918d4dec2d",
+  "profileName" : "Novampr",
+  "textures" : {
+    "SKIN" : {
+      "url" : "http://textures.minecraft.net/texture/2c327cda4a0bf5d1785376410906124dfc376a6f4a456bcfca543af808e20c91",
+      "metadata" : {
+        "model" : "slim"
+      }
+    },
+    "CAPE" : {
+      "url" : "http://textures.minecraft.net/texture/cd9d82ab17fd92022dbd4a86cde4c382a7540e117fae7b9a2853658505a80625"
+    }
+  }
 }
